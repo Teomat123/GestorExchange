@@ -1,0 +1,17 @@
+C:\Users\nicol\OneDrive\Documentos\Exchanges\RabbitMQ.Consumer\bin\Debug\netcoreapp3.1\RabbitMQ.Consumer.exe
+C:\Users\nicol\OneDrive\Documentos\Exchanges\RabbitMQ.Consumer\bin\Debug\netcoreapp3.1\RabbitMQ.Consumer.deps.json
+C:\Users\nicol\OneDrive\Documentos\Exchanges\RabbitMQ.Consumer\bin\Debug\netcoreapp3.1\RabbitMQ.Consumer.runtimeconfig.json
+C:\Users\nicol\OneDrive\Documentos\Exchanges\RabbitMQ.Consumer\bin\Debug\netcoreapp3.1\RabbitMQ.Consumer.runtimeconfig.dev.json
+C:\Users\nicol\OneDrive\Documentos\Exchanges\RabbitMQ.Consumer\bin\Debug\netcoreapp3.1\RabbitMQ.Consumer.dll
+C:\Users\nicol\OneDrive\Documentos\Exchanges\RabbitMQ.Consumer\bin\Debug\netcoreapp3.1\RabbitMQ.Consumer.pdb
+C:\Users\nicol\OneDrive\Documentos\Exchanges\RabbitMQ.Consumer\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\nicol\OneDrive\Documentos\Exchanges\RabbitMQ.Consumer\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\nicol\OneDrive\Documentos\Exchanges\RabbitMQ.Consumer\obj\Debug\netcoreapp3.1\RabbitMQ.Consumer.csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive\Documentos\Exchanges\RabbitMQ.Consumer\obj\Debug\netcoreapp3.1\RabbitMQ.Consumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\OneDrive\Documentos\Exchanges\RabbitMQ.Consumer\obj\Debug\netcoreapp3.1\RabbitMQ.Consumer.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive\Documentos\Exchanges\RabbitMQ.Consumer\obj\Debug\netcoreapp3.1\RabbitMQ.Consumer.AssemblyInfo.cs
+C:\Users\nicol\OneDrive\Documentos\Exchanges\RabbitMQ.Consumer\obj\Debug\netcoreapp3.1\RabbitMQ.Consumer.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Documentos\Exchanges\RabbitMQ.Consumer\obj\Debug\netcoreapp3.1\RabbitMQ.0955E78D.Up2Date
+C:\Users\nicol\OneDrive\Documentos\Exchanges\RabbitMQ.Consumer\obj\Debug\netcoreapp3.1\RabbitMQ.Consumer.dll
+C:\Users\nicol\OneDrive\Documentos\Exchanges\RabbitMQ.Consumer\obj\Debug\netcoreapp3.1\RabbitMQ.Consumer.pdb
+C:\Users\nicol\OneDrive\Documentos\Exchanges\RabbitMQ.Consumer\obj\Debug\netcoreapp3.1\RabbitMQ.Consumer.genruntimeconfig.cache

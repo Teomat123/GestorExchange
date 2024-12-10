@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = RabbitMQ.Producer
+build_property.ProjectDir = C:\Users\nicol\OneDrive\Documentos\Exchanges\RabbitMQ.Producer\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
